@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "52jrOfCyeF0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ruben\\Projects\\TrackForge\\trackforge-api\\trackforge-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
